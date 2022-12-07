@@ -4,4 +4,4 @@ This repository contains the answer to all the exercises and problems of the 3rd
 
 ## Table of contents:
 
-
+### [**Chapter 1**](https://github.com/farshidgilak/hands-on-machine-learning-3rd-edition/blob/main/chapter-01/ch01-exercises-answers.md)
